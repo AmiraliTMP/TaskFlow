@@ -1,0 +1,35 @@
+
+# Dependencies
+**/node_modules/
+
+# Environment variables
+**/.env
+**/.env.*
+**/.env.example
+
+# Build outputs
+**/dist/
+**/build/
+**/release/
+**/out/
+
+# Logs
+*.log
+logs/
+
+# Cache
+**/.vite/
+**/.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
